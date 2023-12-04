@@ -19,7 +19,9 @@ Brief description of the project, including technologies used and your role in t
 
 ### Project 2: Sabrina-Tan Portfolio (https://github.com/krayo7/Sabrina-Tan.git)
 
-Brief description of the project, including technologies used and your role in the project.
+Embark on a visual journey through the expressive world of Sabrina Tan Zhen Ya, an aspiring artist with a passion for Nature and Sustainability, Technology and Society Through Oil Painting, Digital Illustration, Ink and Pen Drawings. This portfolio showcases a diverse range of artistic endeavors, from intricate drawings and vibrant paintings to digital art, sculpture, and more. Thank you for visiting and sharing in the artistry of Sabrina Tan.
+
+
 
 ...
 
@@ -33,9 +35,8 @@ I'm always looking to enhance my skills and stay updated with the latest technol
 
 ## 📫 Let's Connect!
 
-- GitHub: [Your GitHub Profile](Link to your GitHub profile)
-- LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile)
-- Twitter: [Your Twitter Handle](Link to your Twitter profile)
+- GitHub: Kunal Maurya (https://github.com/krayo7)
+- LinkedIn: Kunal Mautrya (https://www.linkedin.com/in/kunal-maurya-642963232/)
 
 Feel free to reach out if you want to discuss web development, share ideas, or collaborate on projects. I'm always open to new opportunities and connections!
 
